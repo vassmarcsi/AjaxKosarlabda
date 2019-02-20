@@ -1,0 +1,43 @@
+table, th, td {
+    border: 1px solid black;
+    margin: 20px auto;
+    padding: 5px;
+}
+
+th{
+    font-weight: bold;
+    text-align: center;
+    background-color: #7abaff;
+}
+
+.egyik{
+    background-color: white;
+}
+
+.masik{
+    background-color: #fcf8e3;
+}
+
+.col-8{
+    background-color: ivory;
+}
+
+.col-4{
+    background-color: #d4edda;
+}
+
+#jatekosAdatai, #jatekosok{
+    background-color: #c3e6cb;
+}
+
+select{
+    margin: 20px auto;
+}
+
+.container-fluid{
+    background-color: #7abaff;
+}
+
+body{
+    background-color: mistyrose;
+}
